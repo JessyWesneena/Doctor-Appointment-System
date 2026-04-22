@@ -26,7 +26,7 @@ The Doctor Appointment System is a web-based application developed to simplify t
 
 1. Install XAMPP and start Apache & MySQL  
 2. Move the project folder to `C:\xampp\htdocs\`  
-3. Open phpMyAdmin and import the database file  
+3.Import database from `db/database.sql` into phpMyAdmin   
 4. Open browser and go to:  
    http://localhost/doctor-appointment-system  
 
