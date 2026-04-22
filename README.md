@@ -22,6 +22,15 @@ The Doctor Appointment System is a web-based application developed to simplify t
 
 ---
 
+##  How to Run the Project
+
+1. Install XAMPP and start Apache & MySQL  
+2. Move the project folder to `C:\xampp\htdocs\`  
+3. Open phpMyAdmin and import the database file  
+4. Open browser and go to:  
+   http://localhost/doctor-appointment-system  
+
+
 ## 📷 Screenshots
 
 ### 🔐 Login Page
@@ -39,11 +48,4 @@ The Doctor Appointment System is a web-based application developed to simplify t
 ### 📝 View Appointment
 ![Book](screenshots/view.png)
 
-##  How to Run the Project
-
-1. Install XAMPP and start Apache & MySQL  
-2. Move the project folder to `C:\xampp\htdocs\`  
-3. Open phpMyAdmin and import the database file  
-4. Open browser and go to:  
-   http://localhost/doctor-appointment-system  
 
